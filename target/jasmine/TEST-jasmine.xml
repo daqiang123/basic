@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" ?><testsuite errors="0" name="jasmine.specs" tests="1" failures="0" skipped="0" hostname="localhost" time="0.0" timestamp="2018-04-05T01:47:29"><testcase classname="jasmine" name="App says Hello Test when controller loads" time="0.0" failure="false"/></testsuite>
